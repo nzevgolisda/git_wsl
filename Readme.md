@@ -15,3 +15,9 @@ vs code / remote explorer /
 unix name / password
 sudo apt update && sudo apt upgrade
 https://docs.microsoft.com/en-us/windows/wsl/setup/environment
+
+
+
+wsl -l -v
+wsl -t Ubuntu
+wsl --shutdown
